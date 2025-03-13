@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#banner {
+    display: block;
+    width: 100%;
+    height: 250px;
+    background-color: slategrey;
+}
+
+#mensajito {
+    display: none;
+}
